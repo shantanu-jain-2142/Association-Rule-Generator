@@ -1,0 +1,725 @@
+==Frequent itemsets (min_sup=40.0%)==
+
+['Fundraising'], 78.24795842613214%
+['Campgn Lit.'], 78.09948032665181%
+['Petition Expns.'], 70.30438010393468%
+['Prof. Srvcs.'], 67.70601336302896%
+['Fundraising', 'Campgn Lit.'], 66.815144766147%
+['Campgn Consuls.'], 65.55308092056421%
+['Print Ads'], 64.14253897550111%
+['Campgn Lit.', 'Petition Expns.'], 62.88047512991834%
+['Campgn Mlngs'], 62.50927988121752%
+['Campgn Wrkrs $$'], 61.69265033407572%
+['Postage'], 60.7275426874536%
+['Fundraising', 'Petition Expns.'], 60.28210838901262%
+['Campgn Lit.', 'Prof. Srvcs.'], 59.39123979213066%
+['Fundraising', 'Prof. Srvcs.'], 58.94580549368968%
+['Advance Repaymnt'], 58.57461024498886%
+['Fundraising', 'Campgn Consuls.'], 58.57461024498886%
+['Campgn Lit.', 'Campgn Consuls.'], 58.42613214550854%
+['Campgn Lit.', 'Print Ads'], 57.38678544914625%
+['Campgn Mlngs', 'Campgn Lit.'], 57.31254639940609%
+['Fundraising', 'Print Ads'], 56.86711210096511%
+['Campgn Wrkrs $$', 'Campgn Lit.'], 56.42167780252413%
+['Campgn Mlngs', 'Fundraising'], 56.12472160356347%
+['Fundraising', 'Campgn Lit.', 'Petition Expns.'], 55.60504825538233%
+['Petition Expns.', 'Prof. Srvcs.'], 54.491462509279884%
+['Fundraising', 'Campgn Wrkrs $$'], 54.491462509279884%
+['Office Rent'], 54.26874536005939%
+['Fundraising', 'Postage'], 53.74907201187825%
+['Campgn Lit.', 'Postage'], 53.67483296213808%
+['Campgn Lit.', 'Fundraising', 'Prof. Srvcs.'], 53.60059391239792%
+['Petition Expns.', 'Campgn Consuls.'], 53.4521158129176%
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.'], 53.4521158129176%
+['Campgn Consuls.', 'Prof. Srvcs.'], 53.229398663697104%
+['Campgn Wrkrs $$', 'Petition Expns.'], 52.41276911655531%
+['Fundraising', 'Advance Repaymnt'], 52.338530066815146%
+['Campgn Mlngs', 'Petition Expns.'], 52.19005196733482%
+['Fundraising', 'Campgn Lit.', 'Campgn Mlngs'], 52.11581291759465%
+['Fundraising', 'Campgn Lit.', 'Print Ads'], 51.89309576837417%
+['Petition Expns.', 'Print Ads'], 51.74461766889384%
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Lit.'], 50.63103192279139%
+['Campgn Wrkrs $$', 'Prof. Srvcs.'], 50.55679287305122%
+['Prof. Srvcs.', 'Print Ads'], 50.4083147735709%
+['Campgn Lit.', 'Petition Expns.', 'Prof. Srvcs.'], 50.334075723830736%
+['Campgn Lit.', 'Advance Repaymnt'], 50.25983667409057%
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'], 50.18559762435041%
+['Campgn Mlngs', 'Campgn Consuls.'], 50.11135857461024%
+['Campgn Wrkrs $$', 'Campgn Consuls.'], 49.96288047512992%
+['Campgn Lit.', 'Office Rent'], 49.81440237564959%
+['Campgn Mlngs', 'Prof. Srvcs.'], 49.81440237564959%
+['Campgn Consuls.', 'Print Ads'], 49.517446176688935%
+['Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'], 49.517446176688935%
+['Petition Expns.', 'Campgn Wrkrs $$', 'Campgn Lit.'], 49.517446176688935%
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.'], 49.44320712694878%
+['Campgn Mlngs', 'Print Ads'], 49.220489977728285%
+['Petition Expns.', 'Campgn Consuls.', 'Fundraising'], 49.220489977728285%
+['Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'], 49.14625092798812%
+['Fundraising', 'Office Rent'], 49.072011878247956%
+['Petition Expns.', 'Fundraising', 'Prof. Srvcs.'], 49.072011878247956%
+['Fundraising', 'Campgn Lit.', 'Postage'], 48.70081662954714%
+['Petition Expns.', 'Postage'], 48.40386043058649%
+['Postage', 'Prof. Srvcs.'], 48.25538233110616%
+['Campgn Mlngs', 'Campgn Wrkrs $$'], 48.181143281366%
+['Petition Expns.', 'Campgn Lit.', 'Print Ads'], 47.95842613214551%
+['Campgn Wrkrs $$', 'Print Ads'], 47.88418708240535%
+['Fundraising', 'Petition Expns.', 'Campgn Mlngs'], 47.80994803266518%
+['Campgn Consuls.', 'Postage'], 47.661469933184854%
+['Fundraising', 'Campgn Wrkrs $$', 'Petition Expns.'], 47.661469933184854%
+['Postage', 'Print Ads'], 47.58723088344469%
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.'], 47.58723088344469%
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Prof. Srvcs.'], 47.512991833704525%
+['Campgn Wrkrs $$', 'Campgn Consuls.', 'Campgn Lit.'], 47.512991833704525%
+['Fundraising', 'Petition Expns.', 'Print Ads'], 47.29027468448404%
+['Campgn Mlngs', 'Postage'], 47.216035634743875%
+['Fundraising', 'Campgn Consuls.', 'Campgn Mlngs'], 47.14179658500371%
+['Fundraising', 'Campgn Lit.', 'Advance Repaymnt'], 47.067557535263546%
+['Campgn Mlngs', 'Campgn Lit.', 'Prof. Srvcs.'], 46.99331848552338%
+['Petition Expns.', 'Office Rent'], 46.5478841870824%
+['Print Ads', 'Campgn Lit.', 'Prof. Srvcs.'], 46.473645137342245%
+['Campgn Mlngs', 'Campgn Lit.', 'Print Ads'], 46.473645137342245%
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.', 'Fundraising'], 46.473645137342245%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Lit.'], 46.25092798812175%
+['Petition Expns.', 'Advance Repaymnt'], 46.17668893838159%
+['Campgn Lit.', 'Campgn Consuls.', 'Print Ads'], 46.17668893838159%
+['Petition Expns.', 'Fundraising', 'Campgn Lit.', 'Prof. Srvcs.'], 46.17668893838159%
+['Fundraising', 'Campgn Consuls.', 'Campgn Lit.', 'Prof. Srvcs.'], 46.17668893838159%
+['Campgn Wrkrs $$', 'Fundraising', 'Prof. Srvcs.'], 46.02821083890126%
+['Print Ads', 'Fundraising', 'Prof. Srvcs.'], 45.9539717891611%
+['Campgn Consuls.', 'Office Rent'], 45.80549368968077%
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Consuls.'], 45.80549368968077%
+['Fundraising', 'Campgn Consuls.', 'Print Ads'], 45.80549368968077%
+['Campgn Mlngs', 'Fundraising', 'Prof. Srvcs.'], 45.80549368968077%
+['Fundraising', 'Campgn Lit.', 'Office Rent'], 45.73125463994061%
+['Campgn Mlngs', 'Fundraising', 'Print Ads'], 45.657015590200444%
+['Campgn Mlngs', 'Fundraising', 'Campgn Lit.', 'Petition Expns.'], 45.508537490720116%
+['Campgn Lit.', 'Petition Expns.', 'Postage'], 45.28582034149963%
+['Petition Expns.', 'Campgn Consuls.', 'Prof. Srvcs.'], 45.28582034149963%
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Lit.', 'Petition Expns.'], 45.28582034149963%
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Print Ads'], 44.84038604305865%
+['Fundraising', 'Petition Expns.', 'Postage'], 44.766146993318486%
+['Campgn Mlngs', 'Fundraising', 'Campgn Lit.', 'Campgn Consuls.'], 44.69190794357832%
+['Campgn Consuls.', 'Advance Repaymnt'], 44.61766889383816%
+['Prof. Srvcs.', 'Advance Repaymnt'], 44.61766889383816%
+['Office Rent', 'Prof. Srvcs.'], 44.61766889383816%
+['Campgn Mlngs', 'Campgn Lit.', 'Postage'], 44.61766889383816%
+['Campgn Wrkrs $$', 'Postage'], 44.54342984409799%
+['Campgn Lit.', 'Postage', 'Prof. Srvcs.'], 44.469190794357836%
+['Fundraising', 'Campgn Consuls.', 'Postage'], 44.39495174461767%
+['Fundraising', 'Prof. Srvcs.', 'Postage'], 44.24647364513734%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Fundraising'], 44.24647364513734%
+['Petition Expns.', 'Campgn Lit.', 'Fundraising', 'Print Ads'], 44.17223459539718%
+['Campgn Lit.', 'Campgn Consuls.', 'Postage'], 44.097995545657014%
+['Petition Expns.', 'Campgn Wrkrs $$', 'Prof. Srvcs.'], 43.94951744617669%
+['Petition Expns.', 'Campgn Wrkrs $$', 'Campgn Consuls.'], 43.94951744617669%
+['Petition Expns.', 'Campgn Consuls.', 'Campgn Mlngs'], 43.87527839643653%
+['Campgn Mlngs', 'Fundraising', 'Postage'], 43.80103934669636%
+['Campgn Wrkrs $$', 'Office Rent'], 43.7268002969562%
+['Campgn Lit.', 'Petition Expns.', 'Office Rent'], 43.7268002969562%
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Lit.', 'Prof. Srvcs.'], 43.7268002969562%
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Lit.', 'Campgn Consuls.'], 43.7268002969562%
+['Campgn Lit.', 'Postage', 'Print Ads'], 43.652561247216035%
+['Fundraising', 'Postage', 'Print Ads'], 43.652561247216035%
+['Campgn Mlngs', 'Fundraising', 'Campgn Lit.', 'Prof. Srvcs.'], 43.57832219747587%
+['Fundraising', 'Campgn Wrkrs $$', 'Print Ads'], 43.504083147735706%
+['Campgn Mlngs', 'Office Rent'], 43.355605048255384%
+['Campgn Mlngs', 'Fundraising', 'Campgn Lit.', 'Print Ads'], 43.207126948775056%
+['Campgn Lit.', 'Campgn Consuls.', 'Office Rent'], 43.13288789903489%
+['Campgn Mlngs', 'Petition Expns.', 'Prof. Srvcs.'], 43.13288789903489%
+['Fundraising', 'Petition Expns.', 'Office Rent'], 43.13288789903489%
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'], 43.13288789903489%
+['Campgn Wrkrs $$', 'Campgn Consuls.', 'Prof. Srvcs.'], 43.05864884929473%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Petition Expns.'], 43.05864884929473%
+['Fundraising', 'Campgn Consuls.', 'Campgn Lit.', 'Print Ads'], 43.05864884929473%
+['Fundraising', 'Petition Expns.', 'Advance Repaymnt'], 42.98440979955456%
+['Fundraising', 'Campgn Lit.', 'Print Ads', 'Prof. Srvcs.'], 42.98440979955456%
+['Fundraising', 'Campgn Consuls.', 'Office Rent'], 42.910170749814405%
+['Print Ads', 'Petition Expns.', 'Prof. Srvcs.'], 42.910170749814405%
+['Campgn Mlngs', 'Campgn Consuls.', 'Prof. Srvcs.'], 42.83593170007424%
+['Office Rent', 'Print Ads'], 42.761692650334076%
+['Campgn Mlngs', 'Fundraising', 'Campgn Wrkrs $$', 'Campgn Lit.'], 42.761692650334076%
+['Campgn Mlngs', 'Advance Repaymnt'], 42.68745360059391%
+['Petition Expns.', 'Campgn Consuls.', 'Print Ads'], 42.68745360059391%
+['Campgn Lit.', 'Petition Expns.', 'Advance Repaymnt'], 42.53897550111358%
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.', 'Campgn Wrkrs $$'], 42.46473645137342%
+['Petition Expns.', 'Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'], 42.46473645137342%
+['Campgn Mlngs', 'Petition Expns.', 'Print Ads'], 42.3162583518931%
+['Print Ads', 'Campgn Consuls.', 'Prof. Srvcs.'], 42.3162583518931%
+['Campgn Lit.', 'Petition Expns.', 'Fundraising', 'Postage'], 42.24201930215293%
+['Campgn Mlngs', 'Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'], 42.24201930215293%
+['Fundraising', 'Campgn Consuls.', 'Advance Repaymnt'], 42.16778025241277%
+['Print Ads', 'Advance Repaymnt'], 42.01930215293244%
+['Campgn Lit.', 'Office Rent', 'Prof. Srvcs.'], 42.01930215293244%
+['Campgn Wrkrs $$', 'Postage', 'Campgn Lit.'], 42.01930215293244%
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Petition Expns.', 'Prof. Srvcs.'], 42.01930215293244%
+['Campgn Wrkrs $$', 'Advance Repaymnt'], 41.87082405345212%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Petition Expns.', 'Campgn Lit.'], 41.796585003711954%
+['Campgn Wrkrs $$', 'Campgn Consuls.', 'Campgn Lit.', 'Prof. Srvcs.'], 41.72234595397179%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Consuls.'], 41.648106904231625%
+['Campgn Mlngs', 'Fundraising', 'Campgn Lit.', 'Postage'], 41.648106904231625%
+['Fundraising', 'Office Rent', 'Prof. Srvcs.'], 41.57386785449146%
+['Campgn Lit.', 'Campgn Consuls.', 'Advance Repaymnt'], 41.57386785449146%
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.', 'Prof. Srvcs.'], 41.57386785449146%
+['Campgn Mlngs', 'Fundraising', 'Petition Expns.', 'Campgn Consuls.'], 41.57386785449146%
+['Campgn Mlngs', 'Campgn Lit.', 'Office Rent'], 41.499628804751296%
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Office Rent'], 41.42538975501114%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Prof. Srvcs.'], 41.42538975501114%
+['Petition Expns.', 'Campgn Wrkrs $$', 'Print Ads'], 41.42538975501114%
+['Campgn Consuls.', 'Prof. Srvcs.', 'Postage'], 41.42538975501114%
+['Campgn Lit.', 'Campgn Consuls.', 'Fundraising', 'Postage'], 41.42538975501114%
+['Campgn Lit.', 'Fundraising', 'Postage', 'Prof. Srvcs.'], 41.42538975501114%
+['Fundraising', 'Prof. Srvcs.', 'Advance Repaymnt'], 41.351150705270975%
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'], 41.202672605790646%
+['Postage', 'Office Rent'], 41.12843355605048%
+['Campgn Mlngs', 'Petition Expns.', 'Postage'], 41.12843355605048%
+['Campgn Mlngs', 'Campgn Consuls.', 'Print Ads'], 41.12843355605048%
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Lit.', 'Print Ads'], 41.12843355605048%
+['Postage', 'Advance Repaymnt'], 41.05419450631032%
+['Fundraising', 'Campgn Wrkrs $$', 'Postage'], 40.97995545657015%
+['Fundraising', 'Campgn Wrkrs $$', 'Petition Expns.', 'Campgn Consuls.'], 40.97995545657015%
+['Petition Expns.', 'Prof. Srvcs.', 'Postage'], 40.905716406829995%
+['Print Ads', 'Campgn Wrkrs $$', 'Prof. Srvcs.'], 40.83147735708983%
+['Petition Expns.', 'Fundraising', 'Campgn Wrkrs $$', 'Prof. Srvcs.'], 40.83147735708983%
+['Fundraising', 'Campgn Consuls.', 'Campgn Lit.', 'Office Rent'], 40.75723830734967%
+['Fundraising', 'Campgn Lit.', 'Petition Expns.', 'Office Rent'], 40.75723830734967%
+['Fundraising', 'Campgn Wrkrs $$', 'Office Rent'], 40.6829992576095%
+['Campgn Mlngs', 'Fundraising', 'Office Rent'], 40.6829992576095%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Consuls.', 'Campgn Lit.'], 40.6829992576095%
+['Campgn Mlngs', 'Fundraising', 'Advance Repaymnt'], 40.60876020786934%
+['Campgn Lit.', 'Prof. Srvcs.', 'Advance Repaymnt'], 40.60876020786934%
+['Campgn Mlngs', 'Prof. Srvcs.', 'Print Ads'], 40.60876020786934%
+['Campgn Mlngs', 'Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'], 40.60876020786934%
+['Petition Expns.', 'Campgn Consuls.', 'Postage'], 40.534521158129174%
+['Campgn Consuls.', 'Fundraising', 'Campgn Lit.', 'Petition Expns.', 'Prof. Srvcs.'], 40.534521158129174%
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.', 'Print Ads'], 40.46028210838901%
+['Petition Expns.', 'Campgn Consuls.', 'Office Rent'], 40.38604305864885%
+['Petition Expns.', 'Campgn Lit.', 'Print Ads', 'Prof. Srvcs.'], 40.38604305864885%
+['Campgn Lit.', 'Fundraising', 'Print Ads', 'Postage'], 40.31180400890869%
+['Campgn Mlngs', 'Petition Expns.', 'Campgn Lit.', 'Print Ads'], 40.31180400890869%
+['Campgn Wrkrs $$', 'Campgn Consuls.', 'Fundraising', 'Prof. Srvcs.'], 40.31180400890869%
+['Fundraising', 'Campgn Lit.', 'Petition Expns.', 'Advance Repaymnt'], 40.31180400890869%
+['Campgn Mlngs', 'Campgn Lit.', 'Advance Repaymnt'], 40.23756495916852%
+['Campgn Mlngs', 'Petition Expns.', 'Fundraising', 'Prof. Srvcs.'], 40.23756495916852%
+['Campgn Lit.', 'Office Rent', 'Print Ads'], 40.16332590942836%
+['Petition Expns.', 'Campgn Consuls.', 'Fundraising', 'Print Ads'], 40.16332590942836%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Lit.', 'Prof. Srvcs.'], 40.16332590942836%
+['Campgn Lit.', 'Campgn Consuls.', 'Print Ads', 'Prof. Srvcs.'], 40.16332590942836%
+['Campgn Mlngs', 'Postage', 'Prof. Srvcs.'], 40.089086859688194%
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Petition Expns.', 'Fundraising'], 40.089086859688194%
+['Campgn Mlngs', 'Campgn Consuls.', 'Fundraising', 'Campgn Lit.', 'Petition Expns.'], 40.01484780994803%
+
+
+
+==High-confidence association rules (min_conf=75.0%)==
+
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 97.68270944741533%, Supp: 40.6829992576095%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Petition Expns.'] => ['Campgn Lit.'] (Conf: 97.06896551724138%, Supp: 41.796585003711954%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 96.95340501792114%, Supp: 40.16332590942836%)
+['Campgn Wrkrs $$', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 96.89655172413794%, Supp: 41.72234595397179%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Fundraising'] => ['Campgn Lit.'] (Conf: 96.64429530201343%, Supp: 42.761692650334076%)
+['Campgn Wrkrs $$', 'Petition Expns.', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 96.62162162162163%, Supp: 42.46473645137342%)
+['Campgn Mlngs', 'Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 96.3855421686747%, Supp: 41.57386785449146%)
+['Campgn Mlngs', 'Campgn Consuls.', 'Petition Expns.', 'Fundraising'] => ['Campgn Lit.'] (Conf: 96.25%, Supp: 40.01484780994803%)
+['Campgn Mlngs', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 96.18717504332757%, Supp: 41.202672605790646%)
+['Campgn Mlngs', 'Office Rent'] => ['Campgn Lit.'] (Conf: 95.71917808219177%, Supp: 41.499628804751296%)
+['Campgn Wrkrs $$', 'Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 95.6081081081081%, Supp: 42.01930215293244%)
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 95.46191247974069%, Supp: 43.7268002969562%)
+['Fundraising', 'Campgn Consuls.', 'Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 95.45454545454545%, Supp: 40.534521158129174%)
+['Campgn Mlngs', 'Petition Expns.', 'Print Ads'] => ['Campgn Lit.'] (Conf: 95.26315789473685%, Supp: 40.31180400890869%)
+['Campgn Mlngs', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 95.13776337115073%, Supp: 43.57832219747587%)
+['Campgn Mlngs', 'Advance Repaymnt'] => ['Fundraising'] (Conf: 95.1304347826087%, Supp: 40.60876020786934%)
+['Campgn Mlngs', 'Fundraising', 'Postage'] => ['Campgn Lit.'] (Conf: 95.08474576271186%, Supp: 41.648106904231625%)
+['Fundraising', 'Campgn Wrkrs $$', 'Petition Expns.'] => ['Campgn Lit.'] (Conf: 95.01557632398753%, Supp: 45.28582034149963%)
+['Fundraising', 'Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 95.0%, Supp: 43.7268002969562%)
+['Fundraising', 'Campgn Consuls.', 'Office Rent'] => ['Campgn Lit.'] (Conf: 94.9826989619377%, Supp: 40.75723830734967%)
+['Print Ads', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 94.9122807017544%, Supp: 40.16332590942836%)
+['Campgn Mlngs', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 94.80069324090121%, Supp: 40.60876020786934%)
+['Petition Expns.', 'Campgn Consuls.', 'Print Ads'] => ['Campgn Lit.'] (Conf: 94.78260869565217%, Supp: 40.46028210838901%)
+['Campgn Lit.', 'Petition Expns.', 'Advance Repaymnt'] => ['Fundraising'] (Conf: 94.76439790575917%, Supp: 40.31180400890869%)
+['Campgn Wrkrs $$', 'Office Rent'] => ['Campgn Lit.'] (Conf: 94.73684210526316%, Supp: 41.42538975501114%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.', 'Petition Expns.'] => ['Fundraising'] (Conf: 94.72759226713534%, Supp: 40.01484780994803%)
+['Campgn Mlngs', 'Fundraising', 'Print Ads'] => ['Campgn Lit.'] (Conf: 94.6341463414634%, Supp: 43.207126948775056%)
+['Fundraising', 'Campgn Wrkrs $$', 'Print Ads'] => ['Campgn Lit.'] (Conf: 94.53924914675767%, Supp: 41.12843355605048%)
+['Campgn Consuls.', 'Advance Repaymnt'] => ['Fundraising'] (Conf: 94.50915141430947%, Supp: 42.16778025241277%)
+['Campgn Lit.', 'Campgn Consuls.', 'Office Rent'] => ['Fundraising'] (Conf: 94.49225473321859%, Supp: 40.75723830734967%)
+['Fundraising', 'Petition Expns.', 'Office Rent'] => ['Campgn Lit.'] (Conf: 94.49225473321859%, Supp: 40.75723830734967%)
+['Fundraising', 'Petition Expns.', 'Postage'] => ['Campgn Lit.'] (Conf: 94.3615257048093%, Supp: 42.24201930215293%)
+['Campgn Wrkrs $$', 'Postage'] => ['Campgn Lit.'] (Conf: 94.33333333333333%, Supp: 42.01930215293244%)
+['Campgn Mlngs', 'Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 94.26086956521739%, Supp: 40.23756495916852%)
+['Office Rent', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 94.17637271214643%, Supp: 42.01930215293244%)
+['Print Ads', 'Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 94.11764705882354%, Supp: 40.38604305864885%)
+['Petition Expns.', 'Campgn Consuls.', 'Print Ads'] => ['Fundraising'] (Conf: 94.08695652173914%, Supp: 40.16332590942836%)
+['Fundraising', 'Campgn Consuls.', 'Print Ads'] => ['Campgn Lit.'] (Conf: 94.0032414910859%, Supp: 43.05864884929473%)
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 93.97590361445783%, Supp: 40.534521158129174%)
+['Campgn Lit.', 'Campgn Consuls.', 'Postage'] => ['Fundraising'] (Conf: 93.93939393939394%, Supp: 41.42538975501114%)
+['Office Rent', 'Print Ads'] => ['Campgn Lit.'] (Conf: 93.92361111111111%, Supp: 40.16332590942836%)
+['Campgn Mlngs', 'Office Rent'] => ['Fundraising'] (Conf: 93.83561643835617%, Supp: 40.6829992576095%)
+['Fundraising', 'Petition Expns.', 'Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 93.78238341968913%, Supp: 40.31180400890869%)
+['Fundraising', 'Prof. Srvcs.', 'Postage'] => ['Campgn Lit.'] (Conf: 93.6241610738255%, Supp: 41.42538975501114%)
+['Campgn Wrkrs $$', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 93.62068965517241%, Supp: 40.31180400890869%)
+['Print Ads', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 93.53796445880454%, Supp: 42.98440979955456%)
+['Petition Expns.', 'Fundraising', 'Print Ads'] => ['Campgn Lit.'] (Conf: 93.4065934065934%, Supp: 44.17223459539718%)
+['Campgn Mlngs', 'Campgn Lit.', 'Postage'] => ['Fundraising'] (Conf: 93.34442595673876%, Supp: 41.648106904231625%)
+['Fundraising', 'Campgn Consuls.', 'Postage'] => ['Campgn Lit.'] (Conf: 93.31103678929767%, Supp: 41.42538975501114%)
+['Campgn Mlngs', 'Petition Expns.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 93.28743545611015%, Supp: 40.23756495916852%)
+['Campgn Lit.', 'Petition Expns.', 'Postage'] => ['Fundraising'] (Conf: 93.27868852459017%, Supp: 42.24201930215293%)
+['Campgn Lit.', 'Campgn Consuls.', 'Print Ads'] => ['Fundraising'] (Conf: 93.2475884244373%, Supp: 43.05864884929473%)
+['Campgn Wrkrs $$', 'Petition Expns.', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 93.24324324324324%, Supp: 40.97995545657015%)
+['Campgn Lit.', 'Petition Expns.', 'Office Rent'] => ['Fundraising'] (Conf: 93.2088285229202%, Supp: 40.75723830734967%)
+['Office Rent', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 93.17803660565724%, Supp: 41.57386785449146%)
+['Campgn Consuls.', 'Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 93.17803660565724%, Supp: 41.57386785449146%)
+['Campgn Lit.', 'Prof. Srvcs.', 'Postage'] => ['Fundraising'] (Conf: 93.15525876460768%, Supp: 41.42538975501114%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Petition Expns.'] => ['Fundraising'] (Conf: 93.10344827586206%, Supp: 40.089086859688194%)
+['Campgn Wrkrs $$', 'Office Rent'] => ['Fundraising'] (Conf: 93.0390492359932%, Supp: 40.6829992576095%)
+['Campgn Mlngs', 'Campgn Lit.', 'Print Ads'] => ['Fundraising'] (Conf: 92.97124600638978%, Supp: 43.207126948775056%)
+['Petition Expns.', 'Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 92.9054054054054%, Supp: 40.83147735708983%)
+['Campgn Mlngs', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 92.73301737756714%, Supp: 43.57832219747587%)
+['Prof. Srvcs.', 'Advance Repaymnt'] => ['Fundraising'] (Conf: 92.67886855241265%, Supp: 41.351150705270975%)
+['Print Ads', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 92.49201277955272%, Supp: 42.98440979955456%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Wrkrs $$'] => ['Fundraising'] (Conf: 92.45585874799357%, Supp: 42.761692650334076%)
+['Fundraising', 'Print Ads', 'Postage'] => ['Campgn Lit.'] (Conf: 92.3469387755102%, Supp: 40.31180400890869%)
+['Campgn Lit.', 'Print Ads', 'Postage'] => ['Fundraising'] (Conf: 92.3469387755102%, Supp: 40.31180400890869%)
+['Petition Expns.', 'Campgn Lit.', 'Print Ads'] => ['Fundraising'] (Conf: 92.10526315789474%, Supp: 44.17223459539718%)
+['Campgn Lit.', 'Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 92.03125%, Supp: 43.7268002969562%)
+['Campgn Lit.', 'Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 92.03125%, Supp: 43.7268002969562%)
+['Campgn Wrkrs $$', 'Postage'] => ['Fundraising'] (Conf: 92.0%, Supp: 40.97995545657015%)
+['Campgn Lit.', 'Campgn Wrkrs $$', 'Print Ads'] => ['Fundraising'] (Conf: 91.72185430463576%, Supp: 41.12843355605048%)
+['Campgn Wrkrs $$', 'Petition Expns.', 'Campgn Lit.'] => ['Fundraising'] (Conf: 91.4542728635682%, Supp: 45.28582034149963%)
+['Campgn Mlngs', 'Petition Expns.', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 91.20135363790187%, Supp: 42.24201930215293%)
+['Campgn Mlngs', 'Petition Expns.', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 91.20135363790187%, Supp: 41.57386785449146%)
+['Prof. Srvcs.', 'Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 91.01497504159734%, Supp: 40.60876020786934%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Fundraising'] => ['Petition Expns.'] (Conf: 90.60402684563759%, Supp: 40.089086859688194%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Lit.'] => ['Petition Expns.'] (Conf: 90.36918138041733%, Supp: 41.796585003711954%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.', 'Fundraising'] => ['Petition Expns.'] (Conf: 89.53488372093024%, Supp: 40.01484780994803%)
+['Petition Expns.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 89.50819672131148%, Supp: 43.13288789903489%)
+['Petition Expns.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 89.50819672131148%, Supp: 42.46473645137342%)
+['Fundraising', 'Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 89.46515397082658%, Supp: 40.97995545657015%)
+['Fundraising', 'Campgn Lit.', 'Campgn Wrkrs $$'] => ['Petition Expns.'] (Conf: 89.44281524926684%, Supp: 45.28582034149963%)
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 89.375%, Supp: 42.46473645137342%)
+['Fundraising', 'Campgn Lit.', 'Office Rent'] => ['Campgn Consuls.'] (Conf: 89.12337662337661%, Supp: 40.75723830734967%)
+['Fundraising', 'Campgn Lit.', 'Office Rent'] => ['Petition Expns.'] (Conf: 89.12337662337661%, Supp: 40.75723830734967%)
+['Campgn Consuls.', 'Office Rent'] => ['Fundraising'] (Conf: 88.97893030794165%, Supp: 42.910170749814405%)
+['Campgn Consuls.', 'Office Rent'] => ['Campgn Lit.'] (Conf: 88.97893030794165%, Supp: 43.13288789903489%)
+['Campgn Mlngs', 'Campgn Wrkrs $$'] => ['Fundraising'] (Conf: 88.75192604006163%, Supp: 44.24647364513734%)
+['Campgn Wrkrs $$', 'Fundraising', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 88.70967741935483%, Supp: 40.83147735708983%)
+['Campgn Mlngs', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 88.6547811993517%, Supp: 40.60876020786934%)
+['Campgn Mlngs', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 88.46761453396526%, Supp: 41.57386785449146%)
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 88.4375%, Supp: 42.01930215293244%)
+['Petition Expns.', 'Campgn Lit.'] => ['Fundraising'] (Conf: 88.4297520661157%, Supp: 55.60504825538233%)
+['Campgn Mlngs', 'Postage'] => ['Fundraising'] (Conf: 88.20754716981132%, Supp: 43.80103934669636%)
+['Campgn Mlngs', 'Postage'] => ['Campgn Lit.'] (Conf: 88.20754716981132%, Supp: 44.61766889383816%)
+['Campgn Consuls.', 'Office Rent'] => ['Petition Expns.'] (Conf: 88.16855753646678%, Supp: 40.38604305864885%)
+['Campgn Wrkrs $$', 'Fundraising', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 88.0064829821718%, Supp: 40.31180400890869%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Lit.'] => ['Campgn Consuls.'] (Conf: 87.96147672552166%, Supp: 40.6829992576095%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 87.92822185970637%, Supp: 40.01484780994803%)
+['Campgn Mlngs', 'Fundraising', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 87.84440842787681%, Supp: 40.23756495916852%)
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 87.8125%, Supp: 41.72234595397179%)
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 87.8125%, Supp: 41.72234595397179%)
+['Campgn Mlngs', 'Print Ads'] => ['Fundraising'] (Conf: 87.78280542986424%, Supp: 45.657015590200444%)
+['Petition Expns.', 'Campgn Lit.', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 87.78135048231512%, Supp: 40.534521158129174%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 87.78135048231512%, Supp: 40.534521158129174%)
+['Fundraising', 'Campgn Consuls.', 'Print Ads'] => ['Petition Expns.'] (Conf: 87.68233387358185%, Supp: 40.16332590942836%)
+['Campgn Mlngs', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 87.67772511848342%, Supp: 41.202672605790646%)
+['Campgn Lit.', 'Campgn Consuls.', 'Print Ads'] => ['Petition Expns.'] (Conf: 87.62057877813506%, Supp: 40.46028210838901%)
+['Campgn Wrkrs $$', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 87.58064516129032%, Supp: 40.31180400890869%)
+['Petition Expns.', 'Office Rent'] => ['Campgn Lit.'] (Conf: 87.55980861244018%, Supp: 43.7268002969562%)
+['Petition Expns.', 'Office Rent'] => ['Fundraising'] (Conf: 87.55980861244018%, Supp: 43.13288789903489%)
+['Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 87.518573551263%, Supp: 45.80549368968077%)
+['Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 87.518573551263%, Supp: 47.512991833704525%)
+['Petition Expns.', 'Advance Repaymnt'] => ['Fundraising'] (Conf: 87.29903536977493%, Supp: 42.98440979955456%)
+['Petition Expns.', 'Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 87.29903536977493%, Supp: 42.53897550111358%)
+['Petition Expns.', 'Postage'] => ['Campgn Lit.'] (Conf: 87.26993865030676%, Supp: 45.28582034149963%)
+['Petition Expns.', 'Postage'] => ['Fundraising'] (Conf: 87.26993865030676%, Supp: 44.766146993318486%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.', 'Petition Expns.'] => ['Prof. Srvcs.'] (Conf: 87.22044728434506%, Supp: 40.534521158129174%)
+['Campgn Mlngs', 'Postage'] => ['Petition Expns.'] (Conf: 87.10691823899371%, Supp: 41.12843355605048%)
+['Campgn Lit.', 'Campgn Consuls.', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 86.9774919614148%, Supp: 40.16332590942836%)
+['Campgn Consuls.', 'Print Ads'] => ['Fundraising'] (Conf: 86.95652173913044%, Supp: 45.80549368968077%)
+['Campgn Consuls.', 'Print Ads'] => ['Campgn Lit.'] (Conf: 86.95652173913044%, Supp: 46.17668893838159%)
+['Campgn Consuls.', 'Postage'] => ['Campgn Lit.'] (Conf: 86.91588785046729%, Supp: 44.097995545657014%)
+['Campgn Consuls.', 'Postage'] => ['Fundraising'] (Conf: 86.91588785046729%, Supp: 44.39495174461767%)
+['Campgn Consuls.', 'Postage'] => ['Prof. Srvcs.'] (Conf: 86.91588785046729%, Supp: 41.42538975501114%)
+['Print Ads', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 86.90095846645369%, Supp: 40.38604305864885%)
+['Campgn Mlngs', 'Campgn Wrkrs $$', 'Campgn Lit.'] => ['Prof. Srvcs.'] (Conf: 86.8378812199037%, Supp: 40.16332590942836%)
+['Petition Expns.', 'Office Rent'] => ['Campgn Consuls.'] (Conf: 86.76236044657098%, Supp: 40.38604305864885%)
+['Campgn Mlngs', 'Campgn Wrkrs $$'] => ['Petition Expns.'] (Conf: 86.748844375963%, Supp: 43.05864884929473%)
+['Campgn Mlngs', 'Campgn Lit.', 'Print Ads'] => ['Petition Expns.'] (Conf: 86.74121405750799%, Supp: 40.31180400890869%)
+['Fundraising', 'Campgn Lit.', 'Postage'] => ['Petition Expns.'] (Conf: 86.73780487804878%, Supp: 42.24201930215293%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 86.58346333853353%, Supp: 41.202672605790646%)
+['Campgn Wrkrs $$', 'Print Ads'] => ['Petition Expns.'] (Conf: 86.51162790697676%, Supp: 41.42538975501114%)
+['Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 86.49045521292217%, Supp: 46.02821083890126%)
+['Print Ads', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 86.42172523961662%, Supp: 40.16332590942836%)
+['Fundraising', 'Campgn Lit.', 'Campgn Wrkrs $$'] => ['Prof. Srvcs.'] (Conf: 86.36363636363636%, Supp: 43.7268002969562%)
+['Fundraising', 'Campgn Lit.', 'Campgn Wrkrs $$'] => ['Campgn Consuls.'] (Conf: 86.36363636363636%, Supp: 43.7268002969562%)
+['Campgn Mlngs', 'Fundraising', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 86.14173228346456%, Supp: 40.60876020786934%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.', 'Petition Expns.'] => ['Campgn Mlngs'] (Conf: 86.10223642172524%, Supp: 40.01484780994803%)
+['Fundraising', 'Campgn Wrkrs $$', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 85.98130841121495%, Supp: 40.97995545657015%)
+['Campgn Wrkrs $$', 'Print Ads'] => ['Campgn Lit.'] (Conf: 85.89147286821705%, Supp: 44.84038604305865%)
+['Campgn Wrkrs $$', 'Print Ads'] => ['Fundraising'] (Conf: 85.89147286821705%, Supp: 43.504083147735706%)
+['Postage', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 85.84615384615385%, Supp: 44.469190794357836%)
+['Postage', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 85.84615384615385%, Supp: 44.24647364513734%)
+['Postage', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 85.84615384615385%, Supp: 41.42538975501114%)
+['Petition Expns.', 'Campgn Wrkrs $$', 'Campgn Lit.'] => ['Campgn Consuls.'] (Conf: 85.75712143928035%, Supp: 42.46473645137342%)
+['Petition Expns.', 'Campgn Wrkrs $$', 'Fundraising'] => ['Prof. Srvcs.'] (Conf: 85.66978193146417%, Supp: 40.83147735708983%)
+['Fundraising', 'Campgn Lit.', 'Advance Repaymnt'] => ['Petition Expns.'] (Conf: 85.64668769716089%, Supp: 40.31180400890869%)
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 85.625%, Supp: 40.6829992576095%)
+['Campgn Lit.'] => ['Fundraising'] (Conf: 85.5513307984791%, Supp: 66.815144766147%)
+['Fundraising', 'Campgn Lit.', 'Postage'] => ['Campgn Mlngs'] (Conf: 85.51829268292683%, Supp: 41.648106904231625%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 85.49141965678628%, Supp: 40.6829992576095%)
+['Campgn Mlngs', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 85.46603475513429%, Supp: 40.16332590942836%)
+['Fundraising'] => ['Campgn Lit.'] (Conf: 85.38899430740038%, Supp: 66.815144766147%)
+['Petition Expns.', 'Print Ads'] => ['Campgn Lit.'] (Conf: 85.3658536585366%, Supp: 47.95842613214551%)
+['Petition Expns.', 'Print Ads'] => ['Fundraising'] (Conf: 85.3658536585366%, Supp: 47.29027468448404%)
+['Prof. Srvcs.', 'Print Ads'] => ['Fundraising'] (Conf: 85.27245949926363%, Supp: 45.9539717891611%)
+['Campgn Wrkrs $$', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 85.27131782945737%, Supp: 40.83147735708983%)
+['Campgn Lit.', 'Fundraising', 'Print Ads'] => ['Petition Expns.'] (Conf: 85.12160228898426%, Supp: 44.17223459539718%)
+['Campgn Lit.', 'Fundraising', 'Postage'] => ['Campgn Consuls.'] (Conf: 85.0609756097561%, Supp: 41.42538975501114%)
+['Campgn Lit.', 'Fundraising', 'Postage'] => ['Prof. Srvcs.'] (Conf: 85.0609756097561%, Supp: 41.42538975501114%)
+['Campgn Consuls.', 'Postage'] => ['Petition Expns.'] (Conf: 85.04672897196261%, Supp: 40.534521158129174%)
+['Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 84.99257057949481%, Supp: 43.94951744617669%)
+['Petition Expns.', 'Postage'] => ['Campgn Mlngs'] (Conf: 84.96932515337423%, Supp: 41.12843355605048%)
+['Petition Expns.', 'Fundraising', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 84.92935635792779%, Supp: 40.16332590942836%)
+['Campgn Mlngs', 'Postage'] => ['Prof. Srvcs.'] (Conf: 84.90566037735849%, Supp: 40.089086859688194%)
+['Campgn Mlngs', 'Fundraising', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 84.88188976377953%, Supp: 44.69190794357832%)
+['Campgn Mlngs', 'Fundraising', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 84.88188976377953%, Supp: 41.57386785449146%)
+['Campgn Lit.', 'Petition Expns.', 'Campgn Wrkrs $$'] => ['Prof. Srvcs.'] (Conf: 84.8575712143928%, Supp: 42.01930215293244%)
+['Postage', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 84.76923076923077%, Supp: 40.905716406829995%)
+['Fundraising', 'Office Rent'] => ['Prof. Srvcs.'] (Conf: 84.72012102874433%, Supp: 41.57386785449146%)
+['Postage', 'Print Ads'] => ['Campgn Lit.'] (Conf: 84.71138845553821%, Supp: 43.652561247216035%)
+['Postage', 'Print Ads'] => ['Fundraising'] (Conf: 84.71138845553821%, Supp: 43.652561247216035%)
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 84.61538461538461%, Supp: 42.46473645137342%)
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.'] => ['Campgn Wrkrs $$'] (Conf: 84.53453453453453%, Supp: 41.796585003711954%)
+['Campgn Wrkrs $$', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 84.53125%, Supp: 40.16332590942836%)
+['Petition Expns.', 'Postage'] => ['Prof. Srvcs.'] (Conf: 84.50920245398774%, Supp: 40.905716406829995%)
+['Fundraising', 'Campgn Lit.', 'Campgn Wrkrs $$'] => ['Campgn Mlngs'] (Conf: 84.4574780058651%, Supp: 42.761692650334076%)
+['Campgn Mlngs', 'Campgn Wrkrs $$'] => ['Campgn Consuls.'] (Conf: 84.43759630200309%, Supp: 41.648106904231625%)
+['Campgn Mlngs', 'Campgn Wrkrs $$'] => ['Campgn Lit.'] (Conf: 84.43759630200309%, Supp: 46.25092798812175%)
+['Petition Expns.', 'Campgn Wrkrs $$', 'Campgn Lit.'] => ['Campgn Mlngs'] (Conf: 84.40779610194902%, Supp: 41.796585003711954%)
+['Petition Expns.', 'Campgn Lit.', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 84.36532507739938%, Supp: 40.46028210838901%)
+['Campgn Lit.', 'Office Rent'] => ['Prof. Srvcs.'] (Conf: 84.35171385991057%, Supp: 42.01930215293244%)
+['Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 84.25787106446776%, Supp: 41.72234595397179%)
+['Petition Expns.', 'Campgn Lit.', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 84.21052631578948%, Supp: 40.38604305864885%)
+['Campgn Mlngs', 'Petition Expns.', 'Fundraising'] => ['Prof. Srvcs.'] (Conf: 84.1614906832298%, Supp: 40.23756495916852%)
+['Petition Expns.', 'Campgn Wrkrs $$', 'Fundraising'] => ['Campgn Mlngs'] (Conf: 84.11214953271026%, Supp: 40.089086859688194%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 84.08736349453977%, Supp: 44.69190794357832%)
+['Campgn Mlngs', 'Campgn Lit.', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 84.08736349453977%, Supp: 42.24201930215293%)
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.'] => ['Prof. Srvcs.'] (Conf: 84.08408408408408%, Supp: 41.57386785449146%)
+['Petition Expns.', 'Campgn Lit.', 'Print Ads'] => ['Campgn Mlngs'] (Conf: 84.05572755417955%, Supp: 40.31180400890869%)
+['Campgn Mlngs', 'Petition Expns.', 'Fundraising'] => ['Campgn Wrkrs $$'] (Conf: 83.85093167701862%, Supp: 40.089086859688194%)
+['Petition Expns.', 'Postage'] => ['Campgn Consuls.'] (Conf: 83.74233128834356%, Supp: 40.534521158129174%)
+['Campgn Mlngs', 'Fundraising', 'Petition Expns.'] => ['Campgn Lit.'] (Conf: 83.69565217391305%, Supp: 45.508537490720116%)
+['Campgn Mlngs', 'Fundraising', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 83.69565217391305%, Supp: 41.57386785449146%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising'] => ['Prof. Srvcs.'] (Conf: 83.61823361823363%, Supp: 43.57832219747587%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 83.6111111111111%, Supp: 44.69190794357832%)
+['Petition Expns.', 'Campgn Lit.', 'Fundraising'] => ['Campgn Consuls.'] (Conf: 83.5781041388518%, Supp: 46.473645137342245%)
+['Campgn Mlngs', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 83.55957767722472%, Supp: 41.12843355605048%)
+['Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 83.50668647845468%, Supp: 43.05864884929473%)
+['Campgn Lit.', 'Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 83.48082595870206%, Supp: 42.01930215293244%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 83.45752608047691%, Supp: 43.13288789903489%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 83.45752608047691%, Supp: 46.99331848552338%)
+['Campgn Mlngs', 'Campgn Wrkrs $$'] => ['Prof. Srvcs.'] (Conf: 83.35901386748844%, Supp: 41.42538975501114%)
+['Campgn Lit.', 'Office Rent'] => ['Campgn Mlngs'] (Conf: 83.30849478390462%, Supp: 41.499628804751296%)
+['Fundraising', 'Campgn Lit.', 'Print Ads'] => ['Campgn Mlngs'] (Conf: 83.2618025751073%, Supp: 43.207126948775056%)
+['Fundraising', 'Petition Expns.', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 83.25791855203619%, Supp: 40.97995545657015%)
+['Campgn Lit.', 'Fundraising'] => ['Petition Expns.'] (Conf: 83.22222222222221%, Supp: 55.60504825538233%)
+['Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 83.20839580209895%, Supp: 41.202672605790646%)
+['Petition Expns.', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 83.2072617246596%, Supp: 40.83147735708983%)
+['Campgn Lit.', 'Office Rent'] => ['Campgn Wrkrs $$'] (Conf: 83.15946348733235%, Supp: 41.42538975501114%)
+['Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 83.11306901615272%, Supp: 43.94951744617669%)
+['Campgn Wrkrs $$', 'Fundraising'] => ['Petition Expns.'] (Conf: 83.10626702997274%, Supp: 47.661469933184854%)
+['Postage', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 83.07692307692307%, Supp: 40.089086859688194%)
+['Campgn Consuls.', 'Print Ads'] => ['Campgn Mlngs'] (Conf: 83.05847076461768%, Supp: 41.12843355605048%)
+['Fundraising', 'Office Rent'] => ['Campgn Consuls.'] (Conf: 83.05597579425114%, Supp: 42.910170749814405%)
+['Fundraising', 'Office Rent'] => ['Petition Expns.'] (Conf: 83.05597579425114%, Supp: 43.13288789903489%)
+['Fundraising', 'Office Rent'] => ['Campgn Lit.'] (Conf: 83.05597579425114%, Supp: 45.73125463994061%)
+['Petition Expns.', 'Campgn Lit.', 'Fundraising'] => ['Prof. Srvcs.'] (Conf: 83.04405874499334%, Supp: 46.17668893838159%)
+['Fundraising', 'Campgn Lit.', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 82.97567954220315%, Supp: 43.05864884929473%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising'] => ['Print Ads'] (Conf: 82.90598290598291%, Supp: 43.207126948775056%)
+['Fundraising', 'Office Rent'] => ['Campgn Wrkrs $$'] (Conf: 82.90468986384268%, Supp: 40.6829992576095%)
+['Fundraising', 'Office Rent'] => ['Campgn Mlngs'] (Conf: 82.90468986384268%, Supp: 40.6829992576095%)
+['Fundraising', 'Campgn Lit.', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 82.83261802575109%, Supp: 42.98440979955456%)
+['Campgn Lit.', 'Fundraising', 'Postage'] => ['Print Ads'] (Conf: 82.77439024390243%, Supp: 40.31180400890869%)
+['Campgn Lit.', 'Advance Repaymnt'] => ['Campgn Consuls.'] (Conf: 82.7178729689808%, Supp: 41.57386785449146%)
+['Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 82.62839879154077%, Supp: 40.60876020786934%)
+['Petition Expns.', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 82.60211800302572%, Supp: 46.17668893838159%)
+['Petition Expns.', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 82.60211800302572%, Supp: 42.46473645137342%)
+['Petition Expns.', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 82.59587020648968%, Supp: 41.57386785449146%)
+['Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 82.52569750367107%, Supp: 43.05864884929473%)
+['Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 82.52569750367107%, Supp: 47.512991833704525%)
+['Campgn Mlngs', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 82.50377073906485%, Supp: 40.60876020786934%)
+['Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 82.4773413897281%, Supp: 46.17668893838159%)
+['Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 82.4773413897281%, Supp: 42.46473645137342%)
+['Petition Expns.', 'Fundraising', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 82.35294117647058%, Supp: 42.46473645137342%)
+['Campgn Mlngs', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 82.07407407407408%, Supp: 41.12843355605048%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising'] => ['Campgn Wrkrs $$'] (Conf: 82.05128205128206%, Supp: 42.761692650334076%)
+['Fundraising', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 82.02416918429003%, Supp: 40.31180400890869%)
+['Fundraising', 'Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 81.99697428139183%, Supp: 40.23756495916852%)
+['Campgn Mlngs', 'Print Ads'] => ['Petition Expns.'] (Conf: 81.90045248868778%, Supp: 42.3162583518931%)
+['Campgn Mlngs', 'Print Ads'] => ['Campgn Lit.'] (Conf: 81.90045248868778%, Supp: 46.473645137342245%)
+['Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 81.85907046476761%, Supp: 43.13288789903489%)
+['Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 81.85907046476761%, Supp: 46.17668893838159%)
+['Fundraising', 'Campgn Lit.', 'Petition Expns.'] => ['Campgn Mlngs'] (Conf: 81.84245660881176%, Supp: 45.508537490720116%)
+['Campgn Lit.', 'Office Rent'] => ['Campgn Consuls.'] (Conf: 81.81818181818181%, Supp: 43.13288789903489%)
+['Campgn Lit.', 'Office Rent'] => ['Petition Expns.'] (Conf: 81.81818181818181%, Supp: 43.7268002969562%)
+['Campgn Lit.', 'Office Rent'] => ['Fundraising'] (Conf: 81.81818181818181%, Supp: 45.73125463994061%)
+['Campgn Lit.', 'Fundraising', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 81.80555555555554%, Supp: 43.7268002969562%)
+['Campgn Consuls.', 'Print Ads'] => ['Petition Expns.'] (Conf: 81.70914542728636%, Supp: 42.68745360059391%)
+['Petition Expns.', 'Fundraising', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 81.59879336349924%, Supp: 40.16332590942836%)
+['Campgn Lit.', 'Fundraising', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 81.57894736842105%, Supp: 43.7268002969562%)
+['Campgn Consuls.'] => ['Fundraising'] (Conf: 81.54020385050963%, Supp: 58.57461024498886%)
+['Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 81.54020385050963%, Supp: 58.42613214550854%)
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.'] => ['Print Ads'] (Conf: 81.53153153153153%, Supp: 40.31180400890869%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 81.52011922503726%, Supp: 40.60876020786934%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 81.52011922503726%, Supp: 45.80549368968077%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 81.52011922503726%, Supp: 42.83593170007424%)
+['Fundraising', 'Campgn Lit.', 'Petition Expns.'] => ['Campgn Wrkrs $$'] (Conf: 81.44192256341789%, Supp: 45.28582034149963%)
+['Campgn Wrkrs $$', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 81.42644873699851%, Supp: 41.648106904231625%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 81.32147395171538%, Supp: 47.512991833704525%)
+['Fundraising', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 81.30193905817174%, Supp: 43.57832219747587%)
+['Petition Expns.', 'Fundraising', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 81.2971342383107%, Supp: 46.473645137342245%)
+['Petition Expns.', 'Fundraising', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 81.2971342383107%, Supp: 41.57386785449146%)
+['Fundraising', 'Campgn Lit.', 'Campgn Wrkrs $$'] => ['Print Ads'] (Conf: 81.23167155425219%, Supp: 41.12843355605048%)
+['Campgn Mlngs', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 81.18518518518519%, Supp: 41.648106904231625%)
+['Campgn Consuls.', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 81.10944527736132%, Supp: 42.3162583518931%)
+['Campgn Lit.', 'Campgn Consuls.', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 81.10944527736132%, Supp: 40.16332590942836%)
+['Campgn Mlngs', 'Fundraising'] => ['Petition Expns.'] (Conf: 81.08465608465607%, Supp: 47.80994803266518%)
+['Campgn Mlngs', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 81.03703703703704%, Supp: 42.83593170007424%)
+['Campgn Wrkrs $$', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 81.01983002832861%, Supp: 43.94951744617669%)
+['Prof. Srvcs.', 'Print Ads'] => ['Campgn Wrkrs $$'] (Conf: 81.00147275405007%, Supp: 40.83147735708983%)
+['Campgn Lit.', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 80.98318240620958%, Supp: 46.473645137342245%)
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.'] => ['Fundraising'] (Conf: 80.93093093093093%, Supp: 45.508537490720116%)
+['Campgn Mlngs', 'Campgn Lit.', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 80.93093093093093%, Supp: 42.24201930215293%)
+['Print Ads'] => ['Campgn Lit.'] (Conf: 80.90277777777777%, Supp: 57.38678544914625%)
+['Print Ads'] => ['Fundraising'] (Conf: 80.90277777777777%, Supp: 56.86711210096511%)
+['Campgn Lit.', 'Advance Repaymnt'] => ['Prof. Srvcs.'] (Conf: 80.79763663220088%, Supp: 40.60876020786934%)
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 80.76923076923077%, Supp: 43.13288789903489%)
+['Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 80.76358296622614%, Supp: 40.83147735708983%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Campgn Wrkrs $$'] (Conf: 80.69948186528498%, Supp: 46.25092798812175%)
+['Print Ads'] => ['Petition Expns.'] (Conf: 80.67129629629628%, Supp: 51.74461766889384%)
+['Campgn Lit.', 'Office Rent'] => ['Print Ads'] (Conf: 80.62593144560358%, Supp: 40.16332590942836%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 80.62593144560358%, Supp: 41.42538975501114%)
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 80.62130177514793%, Supp: 40.46028210838901%)
+['Fundraising', 'Advance Repaymnt'] => ['Campgn Consuls.'] (Conf: 80.56737588652481%, Supp: 42.16778025241277%)
+['Print Ads', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 80.55964653902798%, Supp: 40.60876020786934%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 80.55555555555554%, Supp: 43.05864884929473%)
+['Petition Expns.', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 80.53097345132743%, Supp: 46.17668893838159%)
+['Petition Expns.', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 80.53097345132743%, Supp: 43.13288789903489%)
+['Campgn Lit.'] => ['Petition Expns.'] (Conf: 80.51330798479087%, Supp: 62.88047512991834%)
+['Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 80.48245614035089%, Supp: 54.491462509279884%)
+['Campgn Mlngs', 'Prof. Srvcs.'] => ['Postage'] (Conf: 80.4769001490313%, Supp: 40.089086859688194%)
+['Advance Repaymnt'] => ['Fundraising'] (Conf: 80.35487959442331%, Supp: 52.338530066815146%)
+['Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 80.35487959442331%, Supp: 50.25983667409057%)
+['Campgn Wrkrs $$'] => ['Campgn Lit.'] (Conf: 80.2647412755716%, Supp: 56.42167780252413%)
+['Campgn Wrkrs $$'] => ['Petition Expns.'] (Conf: 80.2647412755716%, Supp: 52.41276911655531%)
+['Campgn Wrkrs $$', 'Fundraising'] => ['Campgn Lit.'] (Conf: 80.24523160762942%, Supp: 50.63103192279139%)
+['Campgn Wrkrs $$', 'Fundraising'] => ['Campgn Consuls.'] (Conf: 80.24523160762942%, Supp: 45.80549368968077%)
+['Fundraising', 'Campgn Wrkrs $$'] => ['Prof. Srvcs.'] (Conf: 80.24523160762942%, Supp: 46.02821083890126%)
+['Petition Expns.', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 80.23598820058997%, Supp: 40.38604305864885%)
+['Fundraising', 'Campgn Lit.'] => ['Prof. Srvcs.'] (Conf: 80.22222222222221%, Supp: 53.60059391239792%)
+['Campgn Lit.', 'Advance Repaymnt'] => ['Fundraising'] (Conf: 80.20679468242244%, Supp: 47.067557535263546%)
+['Campgn Lit.', 'Advance Repaymnt'] => ['Petition Expns.'] (Conf: 80.20679468242244%, Supp: 42.53897550111358%)
+['Postage'] => ['Campgn Lit.'] (Conf: 80.1955990220049%, Supp: 53.67483296213808%)
+['Postage'] => ['Fundraising'] (Conf: 80.1955990220049%, Supp: 53.74907201187825%)
+['Fundraising', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 80.19390581717452%, Supp: 42.98440979955456%)
+['Campgn Wrkrs $$', 'Petition Expns.'] => ['Prof. Srvcs.'] (Conf: 80.1699716713881%, Supp: 43.94951744617669%)
+['Campgn Wrkrs $$', 'Petition Expns.'] => ['Campgn Lit.'] (Conf: 80.1699716713881%, Supp: 49.517446176688935%)
+['Prof. Srvcs.', 'Print Ads'] => ['Petition Expns.'] (Conf: 80.1178203240059%, Supp: 42.910170749814405%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Campgn Wrkrs $$'] (Conf: 80.08534850640113%, Supp: 43.05864884929473%)
+['Campgn Lit.', 'Advance Repaymnt'] => ['Campgn Mlngs'] (Conf: 80.05908419497784%, Supp: 40.23756495916852%)
+['Petition Expns.', 'Print Ads'] => ['Campgn Wrkrs $$'] (Conf: 80.05738880918221%, Supp: 41.42538975501114%)
+['Petition Expns.', 'Campgn Lit.'] => ['Prof. Srvcs.'] (Conf: 80.04722550177097%, Supp: 50.334075723830736%)
+['Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 80.0%, Supp: 47.512991833704525%)
+['Campgn Lit.', 'Fundraising'] => ['Campgn Consuls.'] (Conf: 80.0%, Supp: 53.4521158129176%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising'] => ['Postage'] (Conf: 79.91452991452992%, Supp: 41.648106904231625%)
+['Campgn Mlngs', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 79.85185185185186%, Supp: 43.87527839643653%)
+['Campgn Mlngs', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 79.85185185185186%, Supp: 47.58723088344469%)
+['Campgn Mlngs', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 79.85185185185186%, Supp: 47.14179658500371%)
+['Campgn Lit.', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 79.81109799291617%, Supp: 50.18559762435041%)
+['Petition Expns.', 'Campgn Wrkrs $$'] => ['Campgn Mlngs'] (Conf: 79.74504249291783%, Supp: 43.05864884929473%)
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 79.73372781065089%, Supp: 46.473645137342245%)
+['Petition Expns.', 'Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 79.73372781065089%, Supp: 42.24201930215293%)
+['Postage'] => ['Petition Expns.'] (Conf: 79.70660146699267%, Supp: 48.40386043058649%)
+['Prof. Srvcs.', 'Print Ads'] => ['Campgn Lit.'] (Conf: 79.6759941089838%, Supp: 46.473645137342245%)
+['Prof. Srvcs.', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 79.6759941089838%, Supp: 42.3162583518931%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Prof. Srvcs.'] (Conf: 79.65860597439546%, Supp: 43.13288789903489%)
+['Campgn Mlngs', 'Fundraising'] => ['Campgn Lit.'] (Conf: 79.62962962962963%, Supp: 52.11581291759465%)
+['Campgn Mlngs', 'Fundraising'] => ['Campgn Consuls.'] (Conf: 79.62962962962963%, Supp: 47.14179658500371%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 79.5425667090216%, Supp: 50.18559762435041%)
+['Campgn Lit.', 'Campgn Wrkrs $$'] => ['Print Ads'] (Conf: 79.47368421052632%, Supp: 44.84038604305865%)
+['Postage'] => ['Prof. Srvcs.'] (Conf: 79.46210268948656%, Supp: 48.25538233110616%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 79.44444444444444%, Supp: 43.94951744617669%)
+['Campgn Wrkrs $$', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 79.44199706314244%, Supp: 41.42538975501114%)
+['Petition Expns.', 'Campgn Lit.', 'Fundraising'] => ['Print Ads'] (Conf: 79.4392523364486%, Supp: 44.17223459539718%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Petition Expns.'] (Conf: 79.40414507772022%, Supp: 49.44320712694878%)
+['Fundraising', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 79.34093789607097%, Supp: 49.220489977728285%)
+['Campgn Lit.', 'Fundraising', 'Print Ads'] => ['Campgn Wrkrs $$'] (Conf: 79.25608011444922%, Supp: 41.12843355605048%)
+['Prof. Srvcs.'] => ['Fundraising'] (Conf: 79.16666666666667%, Supp: 58.94580549368968%)
+['Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 79.16666666666667%, Supp: 59.39123979213066%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 79.15531335149863%, Supp: 50.334075723830736%)
+['Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 79.125%, Supp: 46.99331848552338%)
+['Campgn Mlngs'] => ['Petition Expns.'] (Conf: 79.09738717339668%, Supp: 52.19005196733482%)
+['Petition Expns.'] => ['Fundraising'] (Conf: 79.09186906019006%, Supp: 60.28210838901262%)
+['Petition Expns.'] => ['Campgn Lit.'] (Conf: 79.09186906019006%, Supp: 62.88047512991834%)
+['Campgn Wrkrs $$', 'Petition Expns.'] => ['Print Ads'] (Conf: 79.03682719546742%, Supp: 41.42538975501114%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 79.03430749682339%, Supp: 46.17668893838159%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 79.03430749682339%, Supp: 49.517446176688935%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 79.03430749682339%, Supp: 53.4521158129176%)
+['Fundraising', 'Advance Repaymnt'] => ['Prof. Srvcs.'] (Conf: 79.00709219858155%, Supp: 41.351150705270975%)
+['Advance Repaymnt'] => ['Petition Expns.'] (Conf: 78.8339670468948%, Supp: 46.17668893838159%)
+['Fundraising', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 78.8339670468948%, Supp: 49.14625092798812%)
+['Fundraising', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 78.8339670468948%, Supp: 53.4521158129176%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Postage'] (Conf: 78.80512091038406%, Supp: 41.12843355605048%)
+['Office Rent'] => ['Print Ads'] (Conf: 78.79616963064295%, Supp: 42.761692650334076%)
+['Campgn Lit.', 'Petition Expns.'] => ['Campgn Wrkrs $$'] (Conf: 78.74852420306966%, Supp: 49.517446176688935%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 78.7465940054496%, Supp: 42.910170749814405%)
+['Campgn Mlngs'] => ['Print Ads'] (Conf: 78.74109263657958%, Supp: 49.220489977728285%)
+['Campgn Lit.', 'Postage'] => ['Petition Expns.'] (Conf: 78.69986168741356%, Supp: 45.28582034149963%)
+['Petition Expns.', 'Campgn Lit.'] => ['Campgn Mlngs'] (Conf: 78.63046044864227%, Supp: 49.44320712694878%)
+['Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 78.61842105263158%, Supp: 53.229398663697104%)
+['Fundraising', 'Postage'] => ['Petition Expns.'] (Conf: 78.59116022099447%, Supp: 44.766146993318486%)
+['Print Ads'] => ['Prof. Srvcs.'] (Conf: 78.58796296296295%, Supp: 50.4083147735709%)
+['Postage'] => ['Campgn Consuls.'] (Conf: 78.48410757946212%, Supp: 47.661469933184854%)
+['Fundraising', 'Campgn Wrkrs $$'] => ['Campgn Mlngs'] (Conf: 78.47411444141689%, Supp: 44.24647364513734%)
+['Petition Expns.', 'Fundraising'] => ['Print Ads'] (Conf: 78.44827586206897%, Supp: 47.29027468448404%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 78.38214783821479%, Supp: 43.05864884929473%)
+['Postage'] => ['Print Ads'] (Conf: 78.36185819070906%, Supp: 47.58723088344469%)
+['Fundraising', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 78.33753148614609%, Supp: 49.072011878247956%)
+['Fundraising', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 78.33753148614609%, Supp: 49.14625092798812%)
+['Fundraising', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 78.33753148614609%, Supp: 53.60059391239792%)
+['Campgn Lit.', 'Postage'] => ['Campgn Wrkrs $$'] (Conf: 78.28492392807746%, Supp: 42.01930215293244%)
+['Campgn Lit.', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 78.25%, Supp: 46.473645137342245%)
+['Fundraising', 'Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 78.20025348542458%, Supp: 45.80549368968077%)
+['Fundraising', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 78.20025348542458%, Supp: 45.80549368968077%)
+['Petition Expns.', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 78.19225251076041%, Supp: 42.68745360059391%)
+['Campgn Lit.', 'Print Ads'] => ['Campgn Wrkrs $$'] (Conf: 78.13712807244502%, Supp: 44.84038604305865%)
+['Campgn Wrkrs $$'] => ['Campgn Mlngs'] (Conf: 78.09867629362213%, Supp: 48.181143281366%)
+['Fundraising', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 78.08564231738035%, Supp: 46.02821083890126%)
+['Petition Expns.', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 78.04878048780489%, Supp: 42.910170749814405%)
+['Campgn Mlngs', 'Fundraising'] => ['Postage'] (Conf: 78.04232804232805%, Supp: 43.80103934669636%)
+['Campgn Lit.', 'Fundraising'] => ['Campgn Mlngs'] (Conf: 77.99999999999999%, Supp: 52.11581291759465%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Fundraising'] (Conf: 77.97927461139898%, Supp: 52.11581291759465%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Campgn Consuls.'] (Conf: 77.97927461139898%, Supp: 47.58723088344469%)
+['Fundraising', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 77.95969773299747%, Supp: 45.9539717891611%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 77.9291553133515%, Supp: 49.072011878247956%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 77.9291553133515%, Supp: 45.28582034149963%)
+['Petition Expns.', 'Print Ads'] => ['Campgn Mlngs'] (Conf: 77.90530846484937%, Supp: 42.3162583518931%)
+['Petition Expns.', 'Campgn Wrkrs $$'] => ['Fundraising'] (Conf: 77.90368271954674%, Supp: 47.661469933184854%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Postage'] (Conf: 77.84974093264249%, Supp: 44.61766889383816%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Postage'] (Conf: 77.82426778242679%, Supp: 41.42538975501114%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 77.77777777777777%, Supp: 43.87527839643653%)
+['Postage'] => ['Campgn Mlngs'] (Conf: 77.75061124694376%, Supp: 47.216035634743875%)
+['Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 77.75000000000001%, Supp: 49.517446176688935%)
+['Campgn Lit.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 77.75000000000001%, Supp: 50.334075723830736%)
+['Campgn Lit.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 77.75000000000001%, Supp: 53.60059391239792%)
+['Fundraising', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 77.70780856423173%, Supp: 45.80549368968077%)
+['Campgn Lit.', 'Fundraising', 'Print Ads'] => ['Postage'] (Conf: 77.6824034334764%, Supp: 40.31180400890869%)
+['Fundraising', 'Print Ads'] => ['Petition Expns.'] (Conf: 77.67624020887727%, Supp: 47.29027468448404%)
+['Campgn Lit.', 'Fundraising'] => ['Print Ads'] (Conf: 77.66666666666666%, Supp: 51.89309576837417%)
+['Campgn Mlngs', 'Fundraising'] => ['Prof. Srvcs.'] (Conf: 77.64550264550265%, Supp: 45.80549368968077%)
+['Campgn Wrkrs $$'] => ['Print Ads'] (Conf: 77.61732851985559%, Supp: 47.88418708240535%)
+['Campgn Lit.', 'Postage'] => ['Fundraising'] (Conf: 77.59336099585062%, Supp: 48.70081662954714%)
+['Campgn Lit.', 'Postage'] => ['Campgn Mlngs'] (Conf: 77.59336099585062%, Supp: 44.61766889383816%)
+['Fundraising', 'Advance Repaymnt'] => ['Campgn Mlngs'] (Conf: 77.5886524822695%, Supp: 40.60876020786934%)
+['Petition Expns.'] => ['Prof. Srvcs.'] (Conf: 77.5079197465681%, Supp: 54.491462509279884%)
+['Campgn Lit.', 'Fundraising', 'Campgn Consuls.'] => ['Postage'] (Conf: 77.5%, Supp: 41.42538975501114%)
+['Campgn Lit.', 'Campgn Wrkrs $$'] => ['Fundraising'] (Conf: 77.49999999999999%, Supp: 50.63103192279139%)
+['Campgn Lit.', 'Campgn Wrkrs $$'] => ['Prof. Srvcs.'] (Conf: 77.49999999999999%, Supp: 47.512991833704525%)
+['Campgn Lit.', 'Campgn Wrkrs $$'] => ['Campgn Consuls.'] (Conf: 77.49999999999999%, Supp: 47.512991833704525%)
+['Fundraising', 'Postage'] => ['Campgn Lit.'] (Conf: 77.48618784530386%, Supp: 48.70081662954714%)
+['Fundraising', 'Postage'] => ['Campgn Mlngs'] (Conf: 77.48618784530386%, Supp: 43.80103934669636%)
+['Campgn Lit.', 'Fundraising', 'Prof. Srvcs.'] => ['Postage'] (Conf: 77.2853185595568%, Supp: 41.42538975501114%)
+['Campgn Wrkrs $$'] => ['Fundraising'] (Conf: 77.25631768953069%, Supp: 54.491462509279884%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Print Ads'] (Conf: 77.24039829302988%, Supp: 42.3162583518931%)
+['Print Ads'] => ['Campgn Consuls.'] (Conf: 77.19907407407408%, Supp: 49.517446176688935%)
+['Campgn Lit.', 'Postage'] => ['Prof. Srvcs.'] (Conf: 77.17842323651453%, Supp: 44.469190794357836%)
+['Campgn Lit.', 'Postage'] => ['Campgn Consuls.'] (Conf: 77.17842323651453%, Supp: 44.097995545657014%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Wrkrs $$'] (Conf: 77.11171662125341%, Supp: 43.94951744617669%)
+['Fundraising', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 77.0935960591133%, Supp: 49.220489977728285%)
+['Campgn Mlngs'] => ['Campgn Wrkrs $$'] (Conf: 77.07838479809978%, Supp: 48.181143281366%)
+['Fundraising', 'Postage'] => ['Prof. Srvcs.'] (Conf: 77.07182320441989%, Supp: 44.24647364513734%)
+['Fundraising', 'Postage'] => ['Campgn Consuls.'] (Conf: 77.07182320441989%, Supp: 44.39495174461767%)
+['Fundraising'] => ['Petition Expns.'] (Conf: 77.03984819734345%, Supp: 60.28210838901262%)
+['Fundraising', 'Advance Repaymnt'] => ['Campgn Lit.'] (Conf: 77.02127659574468%, Supp: 47.067557535263546%)
+['Fundraising', 'Advance Repaymnt'] => ['Petition Expns.'] (Conf: 77.02127659574468%, Supp: 42.98440979955456%)
+['Campgn Wrkrs $$'] => ['Campgn Consuls.'] (Conf: 77.0156438026474%, Supp: 49.96288047512992%)
+['Campgn Wrkrs $$'] => ['Prof. Srvcs.'] (Conf: 77.0156438026474%, Supp: 50.55679287305122%)
+['Campgn Mlngs', 'Fundraising'] => ['Print Ads'] (Conf: 76.98412698412697%, Supp: 45.657015590200444%)
+['Campgn Lit.', 'Print Ads'] => ['Petition Expns.'] (Conf: 76.97283311772316%, Supp: 47.95842613214551%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising'] => ['Petition Expns.'] (Conf: 76.78062678062679%, Supp: 45.508537490720116%)
+['Campgn Mlngs', 'Campgn Lit.', 'Fundraising'] => ['Campgn Consuls.'] (Conf: 76.78062678062679%, Supp: 44.69190794357832%)
+['Fundraising', 'Print Ads'] => ['Postage'] (Conf: 76.76240208877284%, Supp: 43.652561247216035%)
+['Print Ads'] => ['Campgn Mlngs'] (Conf: 76.7361111111111%, Supp: 49.220489977728285%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Fundraising'] (Conf: 76.67140825035563%, Supp: 47.80994803266518%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Campgn Lit.'] (Conf: 76.67140825035563%, Supp: 49.44320712694878%)
+['Campgn Mlngs', 'Petition Expns.'] => ['Campgn Consuls.'] (Conf: 76.67140825035563%, Supp: 43.87527839643653%)
+['Office Rent'] => ['Prof. Srvcs.'] (Conf: 76.60738714090289%, Supp: 44.61766889383816%)
+['Fundraising', 'Petition Expns.'] => ['Prof. Srvcs.'] (Conf: 76.60098522167488%, Supp: 49.072011878247956%)
+['Fundraising', 'Print Ads'] => ['Campgn Wrkrs $$'] (Conf: 76.50130548302873%, Supp: 43.504083147735706%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 76.49301143583229%, Supp: 47.58723088344469%)
+['Office Rent'] => ['Campgn Mlngs'] (Conf: 76.47058823529413%, Supp: 43.355605048255384%)
+['Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 76.44394110985276%, Supp: 50.11135857461024%)
+['Office Rent'] => ['Campgn Wrkrs $$'] (Conf: 76.33378932968536%, Supp: 43.7268002969562%)
+['Fundraising', 'Campgn Consuls.'] => ['Campgn Mlngs'] (Conf: 76.29911280101393%, Supp: 47.14179658500371%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 76.29427792915531%, Supp: 43.13288789903489%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Mlngs'] (Conf: 76.29009762900976%, Supp: 42.83593170007424%)
+['Campgn Lit.', 'Petition Expns.'] => ['Print Ads'] (Conf: 76.26918536009445%, Supp: 47.95842613214551%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.'] => ['Office Rent'] (Conf: 76.24999999999999%, Supp: 40.75723830734967%)
+['Fundraising', 'Postage'] => ['Campgn Wrkrs $$'] (Conf: 76.24309392265192%, Supp: 40.97995545657015%)
+['Campgn Consuls.'] => ['Campgn Wrkrs $$'] (Conf: 76.21744054360136%, Supp: 49.96288047512992%)
+['Campgn Mlngs', 'Fundraising'] => ['Campgn Wrkrs $$'] (Conf: 76.19047619047619%, Supp: 44.24647364513734%)
+['Advance Repaymnt'] => ['Campgn Consuls.'] (Conf: 76.1723700887199%, Supp: 44.61766889383816%)
+['Advance Repaymnt'] => ['Prof. Srvcs.'] (Conf: 76.1723700887199%, Supp: 44.61766889383816%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Fundraising'] (Conf: 76.15062761506277%, Supp: 49.14625092798812%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 76.15062761506277%, Supp: 45.28582034149963%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Campgn Lit.'] (Conf: 76.15062761506277%, Supp: 49.517446176688935%)
+['Campgn Lit.', 'Print Ads'] => ['Postage'] (Conf: 76.06727037516171%, Supp: 43.652561247216035%)
+['Campgn Lit.'] => ['Prof. Srvcs.'] (Conf: 76.04562737642586%, Supp: 59.39123979213066%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Prof. Srvcs.'] (Conf: 76.03626943005182%, Supp: 46.99331848552338%)
+['Petition Expns.'] => ['Campgn Consuls.'] (Conf: 76.02956705385428%, Supp: 53.4521158129176%)
+['Fundraising', 'Print Ads'] => ['Campgn Mlngs'] (Conf: 75.97911227154046%, Supp: 45.657015590200444%)
+['Fundraising', 'Campgn Lit.', 'Petition Expns.'] => ['Postage'] (Conf: 75.96795727636851%, Supp: 42.24201930215293%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Campgn Lit.'] (Conf: 75.83333333333333%, Supp: 50.18559762435041%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Postage'] (Conf: 75.83333333333333%, Supp: 40.534521158129174%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 75.83333333333333%, Supp: 45.28582034149963%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Fundraising'] (Conf: 75.83333333333333%, Supp: 49.220489977728285%)
+['Campgn Lit.', 'Fundraising', 'Campgn Consuls.'] => ['Petition Expns.'] (Conf: 75.83333333333333%, Supp: 46.473645137342245%)
+['Fundraising', 'Campgn Lit.', 'Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 75.83333333333333%, Supp: 46.17668893838159%)
+['Fundraising', 'Campgn Consuls.'] => ['Postage'] (Conf: 75.79214195183776%, Supp: 44.39495174461767%)
+['Campgn Lit.', 'Campgn Wrkrs $$'] => ['Campgn Mlngs'] (Conf: 75.78947368421053%, Supp: 46.25092798812175%)
+['Office Rent'] => ['Postage'] (Conf: 75.78659370725033%, Supp: 41.12843355605048%)
+['Campgn Lit.', 'Fundraising'] => ['Campgn Wrkrs $$'] (Conf: 75.77777777777777%, Supp: 50.63103192279139%)
+['Fundraising', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 75.71801566579633%, Supp: 45.80549368968077%)
+['Fundraising', 'Print Ads'] => ['Campgn Lit.'] (Conf: 75.71801566579633%, Supp: 51.89309576837417%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Print Ads'] (Conf: 75.69444444444443%, Supp: 42.68745360059391%)
+['Campgn Lit.', 'Fundraising', 'Prof. Srvcs.'] => ['Petition Expns.'] (Conf: 75.62326869806094%, Supp: 46.17668893838159%)
+['Fundraising', 'Campgn Lit.', 'Prof. Srvcs.'] => ['Campgn Consuls.'] (Conf: 75.62326869806094%, Supp: 46.17668893838159%)
+['Fundraising', 'Print Ads'] => ['Prof. Srvcs.'] (Conf: 75.58746736292427%, Supp: 45.9539717891611%)
+['Petition Expns.', 'Campgn Consuls.'] => ['Office Rent'] (Conf: 75.55555555555556%, Supp: 40.38604305864885%)
+['Campgn Consuls.'] => ['Prof. Srvcs.'] (Conf: 75.5379388448471%, Supp: 53.229398663697104%)
+['Campgn Consuls.'] => ['Print Ads'] (Conf: 75.5379388448471%, Supp: 49.517446176688935%)
+['Campgn Mlngs'] => ['Postage'] (Conf: 75.53444180522565%, Supp: 47.216035634743875%)
+['Petition Expns.', 'Fundraising'] => ['Campgn Mlngs'] (Conf: 75.49261083743842%, Supp: 47.80994803266518%)
+['Petition Expns.', 'Fundraising'] => ['Campgn Lit.'] (Conf: 75.49261083743842%, Supp: 55.60504825538233%)
+['Campgn Wrkrs $$', 'Fundraising'] => ['Print Ads'] (Conf: 75.47683923705722%, Supp: 43.504083147735706%)
+['Campgn Lit.', 'Campgn Consuls.'] => ['Postage'] (Conf: 75.47649301143584%, Supp: 44.097995545657014%)
+['Campgn Consuls.', 'Prof. Srvcs.'] => ['Print Ads'] (Conf: 75.45327754532775%, Supp: 42.3162583518931%)
+['Campgn Mlngs'] => ['Fundraising'] (Conf: 75.41567695961996%, Supp: 56.12472160356347%)
+['Campgn Mlngs'] => ['Campgn Consuls.'] (Conf: 75.41567695961996%, Supp: 50.11135857461024%)
+['Campgn Mlngs', 'Campgn Lit.'] => ['Print Ads'] (Conf: 75.38860103626943%, Supp: 46.473645137342245%)
+['Fundraising'] => ['Prof. Srvcs.'] (Conf: 75.33206831119546%, Supp: 58.94580549368968%)
+['Campgn Lit.', 'Print Ads'] => ['Campgn Mlngs'] (Conf: 75.29107373868047%, Supp: 46.473645137342245%)
+['Campgn Lit.', 'Campgn Wrkrs $$'] => ['Petition Expns.'] (Conf: 75.26315789473685%, Supp: 49.517446176688935%)
+['Campgn Wrkrs $$', 'Fundraising'] => ['Postage'] (Conf: 75.20435967302451%, Supp: 40.97995545657015%)
+['Campgn Mlngs'] => ['Campgn Lit.'] (Conf: 75.17814726840855%, Supp: 57.31254639940609%)
+['Campgn Mlngs'] => ['Prof. Srvcs.'] (Conf: 75.17814726840855%, Supp: 49.81440237564959%)
+['Petition Expns.', 'Fundraising'] => ['Campgn Wrkrs $$'] (Conf: 75.1231527093596%, Supp: 47.661469933184854%)
+['Campgn Lit.', 'Postage'] => ['Print Ads'] (Conf: 75.10373443983403%, Supp: 43.652561247216035%)
+['Office Rent'] => ['Petition Expns.'] (Conf: 75.10259917920656%, Supp: 46.5478841870824%)
+['Office Rent'] => ['Campgn Lit.'] (Conf: 75.10259917920656%, Supp: 49.81440237564959%)
+['Office Rent'] => ['Fundraising'] (Conf: 75.10259917920656%, Supp: 49.072011878247956%)
+['Office Rent'] => ['Campgn Consuls.'] (Conf: 75.10259917920656%, Supp: 45.80549368968077%)
+['Campgn Consuls.'] => ['Petition Expns.'] (Conf: 75.08493771234428%, Supp: 53.4521158129176%)
+['Petition Expns.', 'Prof. Srvcs.'] => ['Postage'] (Conf: 75.06811989100817%, Supp: 40.905716406829995%)
+['Fundraising', 'Prof. Srvcs.'] => ['Postage'] (Conf: 75.06297229219143%, Supp: 44.24647364513734%)
+['Campgn Lit.', 'Print Ads'] => ['Campgn Consuls.'] (Conf: 75.03234152652006%, Supp: 46.17668893838159%)
+['Campgn Lit.', 'Print Ads'] => ['Fundraising'] (Conf: 75.03234152652006%, Supp: 51.89309576837417%)
+['Fundraising', 'Postage'] => ['Print Ads'] (Conf: 75.0%, Supp: 43.652561247216035%)
